@@ -2,7 +2,7 @@
 
 cd /home/ubuntu/xamp
 
-git pull origin main
+git pull origin 
 
 docker-compose down
 
